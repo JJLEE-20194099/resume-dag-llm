@@ -1,0 +1,13 @@
+{
+    "PERSON_NAME": "name",
+    "JOB_TITLE": "job_title",
+    "ORGANIZATION": "organization",
+    "EDUCATION": "education",
+    "MAJOR": "major",
+    "GPA": "gpa",
+    "SKILL": "skill",
+    "EMAIL": "email",
+    "PROFILE_URL": "profile_url",
+    "PHONE": "phone",
+    "GENDER": "gender"
+}

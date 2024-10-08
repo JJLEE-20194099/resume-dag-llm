@@ -1,0 +1,173 @@
+[
+    {
+        "PERSON_NAME": [
+            "Nguyen Minh Quan"
+        ],
+        "JOB_TITLE": [
+            "Researcher",
+            "Junior Data Scientist"
+        ],
+        "ORGANIZATION": [
+            "HUTECH",
+            "University of Natural Science VNUHCM who",
+            "University of Technology HUTECH",
+            "Tiki Shop"
+        ],
+        "EDUCATION": [
+            "B.E"
+        ],
+        "MAJOR": [
+            "Information Technology",
+            "Natural Language Processing"
+        ],
+        "GPA": [
+            "GPA 3.33",
+            "GPA 3.8"
+        ],
+        "SKILL": [
+            "AutoML",
+            "Heroku",
+            "graph theory",
+            "Testing",
+            "PySpark",
+            "BIG DATA",
+            "Scrapy A/B",
+            "JavaScript",
+            "Java",
+            "Artificial Intelligence",
+            "CMT",
+            "Teamworks",
+            "R",
+            "Powershell",
+            "Swimming",
+            "Discrete math",
+            "Research Presentations",
+            "C",
+            "Vim",
+            "Deep Learning",
+            "Scrapping data",
+            "visualization",
+            "pipeline",
+            "Data science",
+            "Data structures",
+            "Research new technology",
+            "Data Visualization and Analysis",
+            "Reporting",
+            "Communicating",
+            "filtering",
+            "Time Series",
+            "Database Management",
+            "Python",
+            "Github",
+            "HTML",
+            "AI",
+            "Git",
+            "Machine Learning",
+            "Analysis",
+            "SQL",
+            "MARCHINE",
+            "clustering algorithms",
+            "data analysis",
+            "Data Science",
+            "NLP",
+            "Linear algebra",
+            "chatbot",
+            "OCR",
+            "CSS",
+            "Programing",
+            "Big Data",
+            "Object oriented",
+            "Self learning",
+            "Writing",
+            "Problem solving",
+            "Regression",
+            "Mathematics",
+            "Applied",
+            "Calculus",
+            "RFM",
+            "Statistics",
+            "Team leader"
+        ],
+        "EMAIL": [
+            "minhquan23102000@gmail.com"
+        ],
+        "PROFILE_URL": [
+            "github.com"
+        ],
+        "PHONE": [
+            "0383666401"
+        ]
+    },
+    {
+        "ORGANIZATION": [
+            "VINAI VINGROUP",
+            "TOP 7",
+            "Front End App",
+            "FPT AI CTA Consolation",
+            "TOP 24 Makethon",
+            "Ba Dam Market Thoi Lai Can Tho City Poem",
+            "Scholoship KMS Technology CityNow",
+            "Vietnam National University Ho Chi Minh",
+            "RUN FOR ORPHANS",
+            "HCM CITY UNIVERSITY OF TECHNOLOGY HUTECH"
+        ],
+        "MAJOR": [
+            "Information Technology",
+            "Software Technology",
+            "Computer Vision"
+        ],
+        "GPA": [
+            "GPA 3.76/4.00",
+            "3.97/4.00"
+        ],
+        "PERSON_NAME": [
+            "NGUYEN TRONG NHAN HUTECH",
+            "XUAN THOI LAI",
+            "MR PHAM"
+        ],
+        "SKILL": [
+            "Statistical Probability",
+            "Math",
+            "language processor",
+            "Run for childrenorphan",
+            "Linear",
+            "AI Challenge",
+            "Scholoship",
+            "Collaborator",
+            "API building",
+            "Identify and extract personal information",
+            "Calculus",
+            "frameworkTensorflow",
+            "Compilation",
+            "Computer Vision",
+            "BLOG",
+            "image analysis",
+            "Yolo",
+            "Fresher",
+            "Logistic vision",
+            "Regression",
+            "BOT",
+            "Linear Algebra",
+            "Communication",
+            "image processing"
+        ],
+        "GENDER": [
+            "Male"
+        ],
+        "JOB_TITLE": [
+            "professional engineer"
+        ],
+        "EMAIL": [
+            "nguyennhan8521@gmail.com"
+        ],
+        "PROFILE_URL": [
+            "github.com/NTNhacker/DOAN_JAVA",
+            "www.youtube.com/watch",
+            "fb.com/nhan.n.trong.33",
+            "topcv.vn"
+        ],
+        "PHONE": [
+            "0866039411"
+        ]
+    }
+]
